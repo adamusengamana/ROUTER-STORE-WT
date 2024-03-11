@@ -1,0 +1,11 @@
+Index,Model name,Brand,Port numbers,Frequency band class,Wireless standard,Data rate,Warranty,Power,Types of ports,Price,Category
+1,Cisco-2000,Brand X,4,2.4 GHz,802.11n,300 Mbps,1 year,12V DC,LAN, $59.99,Home
+2,Tp-link-2358,Brand Y,5,2.4/5 GHz,802.11ac,1200 Mbps,2 years,24W,LAN/WAN, $89.99,Home
+3,Huwaei-2045,Brand Z,8,2.4/5 GHz,802.11ax,2400 Mbps,3 years,36W,LAN/WAN/USB, $129.99,Home
+4,Brodband-xl,Brand X,4,2.4 GHz,802.11n,300 Mbps,1 year,12V DC,LAN, $59.99,Home
+5,Modem-Df E,Brand Y,5,2.4/5 GHz,802.11ac,1200 Mbps,2 years,24W,LAN/WAN, $89.99,Home
+6,Cisco-34-RX F,Brand Z,8,2.4/5 GHz,802.11ax,2400 Mbps,3 years,36W,LAN/WAN/USB, $129.99,Home
+7,Wifi-23,Brand P,4,2.4 GHz,802.11n,300 Mbps,1 year,12V DC,LAN, $59.99,Business
+8,Hotspot-Wx,Brand Q,5,2.4/5 GHz,802.11ac,1200 Mbps,2 years,24W,LAN/WAN, $89.99,Business
+9,Tp-link-40,Brand R,8,2.4/5 GHz,802.11ax,2400 Mbps,3 years,36W,LAN/WAN/USB, $129.99,Business
+10,Huwaei-FZ,Brand S,4,2.4 GHz,802.11n,300 Mbps,1 year,12V DC,LAN, $59.99,Business
